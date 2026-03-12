@@ -16,6 +16,6 @@ spec:
         - name: app
 
 
-          image: shafiur22/app:4df0db3
+          image: shafiur22/app:b31375e
           ports:
             - containerPort: 80
