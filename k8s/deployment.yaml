@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: app
-          image: shafiur22/app:IMAGE_TAG
+          image: shafiur22/app:latest
           ports:
             - containerPort: 80
